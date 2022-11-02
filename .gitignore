@@ -2,3 +2,6 @@
 /data/*.zip
 /misc_files
 /*.R
+/*.tex
+/*.log
+/*.html
