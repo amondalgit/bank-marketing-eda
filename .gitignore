@@ -1,3 +1,4 @@
+/.vscode
 /data/*.zip
 /misc_files
 /*.R
